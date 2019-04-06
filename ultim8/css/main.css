@@ -1,0 +1,15 @@
+#sound-imgs .items{
+
+  border-radius: 5%
+
+}
+
+.img-fluid {
+  opacity: 0.8;
+  border-radius: 15%;
+  /* heigh:100px; */
+  /* width: auto; */
+  margin-bottom: 200px;
+  margin-left: 250px;
+
+}
